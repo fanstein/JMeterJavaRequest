@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JMeterJavaRequest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JMeterJavaRequest_jar</output-path>
+    <root id="archive" name="JMeterJavaRequest.jar">
+      <element id="module-output" name="JMeterJavaRequest" />
+      <element id="extracted-dir" path="D:/apache-jmeter-3.3/lib/ext/ApacheJMeter_http.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-jmeter-3.3/lib/ext/ApacheJMeter_java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-jmeter-3.3/lib/ext/ApacheJMeter_jdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-jmeter-3.3/lib/ext/ApacheJMeter_core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/software/javacsv2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
